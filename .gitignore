@@ -1,0 +1,28 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+
+# IDE configuration files
+.idea/
+.vscode/
+
+# MacOS specific files
+.DS_Store
+
+# Python distribution package files
+*.egg-info/
+*.dist-info/
+
+# Log files
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Other files you might want to ignore (edit as needed)
+*.swp
+*.swo
